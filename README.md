@@ -3,7 +3,11 @@
 <blockquote>
  <h3>🚀 El Gancho Ejecutivo</h3>
  <p>Sistema de auditoría estratégica e inteligencia interactiva diseñado para la C-Suite con el fin de proteger el margen operativo, mitigar el riesgo de fuga en cuentas VIP y optimizar la inversión en la estrategia de expansión internacional. Una solución analítica completa que transforma más de 5 millones de registros comerciales crudos en directrices de negocio inmediatas.</p>
+ <hr>
+ <p>💡 <strong>Contexto del Proyecto:</strong> Este caso de negocio fue desarrollado como parte de la <strong>Tata Data Visualization Job Simulation</strong> en <a href="https://www.theforage.com/simulations/tata/data-visualisation-p5xo">Forage</a>, resolviendo requerimientos analíticos reales planteados por los roles de liderazgo (CEO y CMO) de <strong>Tata Insights Group</strong>.</p>
 </blockquote>
+
+---
 
 ---
 
